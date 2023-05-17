@@ -1,8 +1,11 @@
 import React from 'react'
+import Calendar from './pages/Calender'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Calendar/>
+    </div>
   )
 }
 
